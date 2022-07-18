@@ -1,6 +1,4 @@
-# superMercado
-
-## **Sistema SuperCC**
+# **Sistema SuperCC**
 
 Você foi contratado(a) para criar um sistema que simule um caixa de um supermercado virtual utilizando a linguagem Python. 
 

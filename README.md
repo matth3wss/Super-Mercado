@@ -1,8 +1,5 @@
 # superMercado
 
-## **Trabalho Final Algoritmos**
-
-
 ## **Sistema SuperCC**
 
 Você foi contratado(a) para criar um sistema que simule um caixa de um supermercado virtual utilizando a linguagem Python. 
@@ -71,10 +68,3 @@ Exibe a lista de todos produtos cadastrados (código, nome, preço e quantidade 
 3 - Funções adicionais para melhorar a funcionalidade básica da aplicação. Por exemplo: utilizar o conceito de estrutura (class): 10%
 
 Obs: quanto menos funções pré-pontas do python forem utilizadas, maior será a avaliação.
-
-
-
-
-##Trabalhos iguais irão resultar em nota igual à zero para todos os envolvidos
-
----

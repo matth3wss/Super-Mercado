@@ -33,10 +33,10 @@ Ao final, o sistema deverá apresentar um tipo de cupom fiscal. Ex.:
 
 |Código|Nome|Quantidade|Preço|
 |:---:|:---:|:---:|:---:|
-|12|Creme Colgate|1|4,50|
-|4|Sabonete Dove|5|18,70|
-|78|Fio Dental|1|21,34|
-|||Total|44,54|
+|12|Creme Colgate|1|R$ 4,50|
+|4|Sabonete Dove|5|R$ 18,70|
+|78|Fio Dental|1|R$ 21,34|
+|||Total|R$ 44,54|
 
 
 ### **4 - Consultar produto**
@@ -48,10 +48,8 @@ Permite buscar os dados do produto pelo seu código. Caso o produto não exista,
 
 Exibe a lista de todos produtos cadastrados (código, nome, preço e quantidade em estoque).
 
-&nbsp;
 
 ---
-
 ### **Avaliação**
 
 
